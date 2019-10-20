@@ -1,22 +1,99 @@
-.App {
-  text-align: center;
+.App{
+  margin-left:500px ;
 }
 
-.App-logo {
-  height: 40vmin;
+.image{
+  height: 50px;
+  width: 50px;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+img{
+  height: 80px;
+  width: 80px;
+  margin-left: 100px;
+}
+.parent{
+  border:1px purple double;
+  height: 620px;
+  width: 350px;
+  background-color: purple;;
 }
 
-.App-link {
-  color: #09d3ac;
+.FirstPart{
+  border:1px white double;
+  height: 150px;
+  width: 300px;
+  margin-left:20px;
+  margin-top: 20px;
+  background-color: lightcyan;
+}
+
+.secondPart{
+  border:1px white double;
+  height: 200px;
+  width: 300px;
+  margin-left:20px;
+  margin-top: 20px;
+  background-color: lightcyan;
+}
+
+.thirdPart{
+  border:1px white double;
+  height: 200px;
+  width: 300px;
+  margin-left:20px;
+  margin-top: 20px;
+  background-color: lightcyan;
+}
+
+
+.Name{
+  padding: 0;
+  margin-top: -30px;
+  margin-left:25px;
+}
+
+.paragraph{
+  padding: 0;
+  margin-top: -25px;
+  margin-left:120px;
+}
+
+.mobileparent{
+  color:red;
+  margin-left:40px;
+}
+
+.Mobile{
+  margin-top:-10px;
+}
+.Number{
+  margin-top: -20px;
+  padding-top: 0px;
+}
+
+
+.emailaddress{
+  margin-top:-20px;
+}
+
+
+.haveniceday{
+  margin-top:10px;
+  font-size: 10px;
+}
+
+.Numbera{
+  margin-top:-20px;
+}
+
+.gasoven{
+  margin-top:-8px;
+  font-size: 10px;
+}
+
+
+.castiron{
+  margin-top:-8px;
+  font-size: 10px;
 }
